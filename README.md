@@ -10,7 +10,7 @@
 
 #### 🧑‍🌾 [**FarmConnect**](https://farm-connect-lake.vercel.app)
 A multilingual agri-commerce platform that bridges farmers directly to consumers.  
-→ Built with secure auth, farmer dashboards, CNN-based crop health detection, and an AI-powered support chatbot using Gemini.  
+→ Built with secure auth, farmer dashboards, CNN-based crop health detection, and an AI-powered chatbot using Gemini.  
 → Integrated Razorpay, subscriptions, and inventory/order management for a full e-commerce experience.
 
 #### 🏡 [**Neighborly**](https://neighborly-jnx4.vercel.app)
@@ -37,7 +37,6 @@ A hyperlocal help platform connecting neighbors for everyday services like pet c
 
 ### 🔭 Currently
 
-- ✨ Improving FarmConnect with smart analytics & product recommendations  
 - 📅 Expanding Neighborly with reviews, chat, and calendar integrations
 
 ---
